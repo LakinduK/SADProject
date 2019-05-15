@@ -18,3 +18,7 @@ http://net-informations.com/q/faq/passvalues.html
 
 How to Connect and Use Local Database ( sql server ) using C#
 https://www.youtube.com/watch?v=1EpYqtSlOr8&list=PLS1QulWo1RIZz2vLIlj0Ra26IowB_vwmf&index=2
+
+Open MenuHow to Connect an Electronic Balance or Scale to a PC and Read Weight Values Directly Into Excel
+https://www.instructables.com/id/How-to-Connect-an-Electronic-Balance-or-Scale-to-a/
+
