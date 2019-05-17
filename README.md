@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # SADProject
 this is the project of System Analysis Development module.
 
@@ -44,4 +44,5 @@ https://www.youtube.com/watch?v=1EpYqtSlOr8&list=PLS1QulWo1RIZz2vLIlj0Ra26IowB_v
 Open MenuHow to Connect an Electronic Balance or Scale to a PC and Read Weight Values Directly Into Excel
 https://www.instructables.com/id/How-to-Connect-an-Electronic-Balance-or-Scale-to-a/
 
->>>>>>> 307dadd7109a59db3c158fc73fbe2df11b4dd65c
+simpe CRUD table in C#:
+https://www.youtube.com/watch?v=ea-sPsCIweU
