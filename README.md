@@ -25,3 +25,6 @@ https://www.instructables.com/id/How-to-Connect-an-Electronic-Balance-or-Scale-t
 
 simpe CRUD table in C#:
 https://www.youtube.com/watch?v=ea-sPsCIweU
+
+Insert date time picker to database in correct way:
+https://www.youtube.com/watch?v=Yb7R7Dr2DBk
