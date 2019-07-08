@@ -28,3 +28,8 @@ https://www.youtube.com/watch?v=ea-sPsCIweU
 
 Insert date time picker to database in correct way:
 https://www.youtube.com/watch?v=Yb7R7Dr2DBk
+
+passing radio button values to the database
+https://drive.google.com/open?id=1D6-ohONeDr6i_SymoBtnmbI9TMwS0GVB
+this is a google drive link you need to download and extract files to run through the visual studio
+please note that two of database files are attached to this document (.mdf and log.ldf) do not paste it on the local disk C: 
